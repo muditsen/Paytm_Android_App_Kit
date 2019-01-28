@@ -19,7 +19,7 @@ After making these changes your project level gradle will look like this.
 ```
  Note: Ignore any warning for now.
 
- Note: x.x.x must be replaced by the latest version of the SDK as mentioned in release notes. Some older versions are removed, please use `2.5.17` or contact us if you want an older version for testing.
+ Note: x.x.x must be replaced by the latest version of the SDK as mentioned in release notes. Some older versions are removed, please use `1.0.1` or contact us if you want an older version for testing.
 
 After making these changes your app level gradle will look like this.
 
